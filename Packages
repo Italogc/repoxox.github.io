@@ -1,0 +1,15 @@
+Package: com.xox.lightson
+Name: LightsOn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Homepage: https://repoxox.github.io
+Author: Voltized <voltizedyt@gmail.com>
+Maintainer: thuan_xox <thuanvodka@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Description: Enable Portrait Lighting on iPhone 7+ (11.0 - 11.4b3)
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.lightson
+Tag: purpose::extension, compatible::ios11
+Filename: ./debs/com.xox.lightson_1.0.0.deb
+Size: 4100
+MD5sum: dd05f136173062e2464cd0f82a8d137e
