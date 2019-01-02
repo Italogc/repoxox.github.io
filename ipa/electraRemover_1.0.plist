@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://repoxox.github.io/ipa/electraRemover_1.0.ipa</string>
+               </dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://repoxox.github.io/img/electra1131.jpg</string>
+				</dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://repoxox.github.io/img/electra1131.jpg</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.tweakbox.ElectraRemover1131</string>
+               <key>bundle-version</key>
+               <string>0.33.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>ElectraRemover1131</string>
+               <key>title</key>
+               <string>ElectraRemover1131</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
