@@ -239,3 +239,19 @@ Depiction: https://repoxox.github.io/depictions/?p=com.xox.lockpluspro_1.4.6.2
 Filename: ./debs/com.xox.lockpluspro_1.4.6.2.deb
 Size: 16340852
 MD5sum: a94b5e9baaf098e9a411503d5c300f94
+
+Author: Orangebananaspy <support@orangebananaspy.com>
+Maintainer: thuan
+Name: NudeKeys
+Package: com.xox.nudekeys
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Version: 4.3
+Architecture: iphoneos-arm
+Description: thay mau ban phim ios 7-11
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/NudeKeys.bundle/NudeKeys@2x.png
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.nudekeys_4.3
+Filename: ./debs/com.xox.nudekeys_4.3.deb
+Size: 1596150
+MD5sum: 01f150e6a429a74406978677085cc643
