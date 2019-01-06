@@ -1,0 +1,23 @@
+<package>
+	<id>com.xox.appadmin</id>
+	<name>App Admin</name>
+	<version>1.0r.101</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	
+	<descriptionlist>
+		<description>Downgrade app trong appstore hỗ trợ ios 7-11.4</description>
+		<description>Welcome To Repo Xox
+		             Chúc Bạn 1 Ngày Tốt Đẹp</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.jpg</image>
+		</screenshot>
+	</screenshots>
+	
+</package>

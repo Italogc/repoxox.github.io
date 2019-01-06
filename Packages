@@ -13,3 +13,229 @@ Tag: purpose::extension, compatible::ios11
 Filename: ./debs/com.xox.lightson_1.0.0.deb
 Size: 4100
 MD5sum: dd05f136173062e2464cd0f82a8d137e
+
+Package: com.repoxox.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Version: 7.7.0
+Architecture: iphoneos-arm
+Homepage: https://repoxox.github.io
+Section: Utilities
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.icleanerpro_7.7.0
+Filename: ./debs/com.repoxox.icleanerpro_7.7.0.deb
+Size: 7386234
+MD5sum: 4f8e39c18623df4166cbacdb833feef9
+
+Name: Filza File Manager
+Package: com.repoxox.filza
+Priority: optional
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Version: 3.5.2-1
+Architecture: iphoneos-arm
+Description: File Manager for iOS. Supports iOS 7+ - 11.4.
+Homepage: https://repoxox.github.io
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.filza_3.5.2-1
+Filename: ./debs/com.repoxox.filza_3.5.2-1.deb
+Size: 13543926
+MD5sum: 54d70f7c164b6a9692da69883e7bd45c
+
+Package: com.repoxox.filza
+Name: Filza File Manager
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm
+Description: File Manager for iOS. Supports iOS 7+ - 11.4.
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Version: 3.6.0-33
+Homepage: https://repoxox.github.io
+Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.filza_3.5.2-1
+Filename: ./debs/com.repoxox.filza_3.6.0-33.deb
+Size: 12452072
+MD5sum: 025d5dc34e777261fb7211daa2b7c667
+
+Package: com.xox.appadmin
+Name: App Admin
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
+Author: UnlimApps Inc.
+Section: System
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
+Maintainer: thuan <thuanvodka@gmail.com>
+Homepage: https://repoxox.github.io
+Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.appadmin_1.0r-101
+Filename: ./debs/com.xox.appadmin_1.0r-101.deb
+Size: 861360
+MD5sum: 4c4dea8d9705f6bb859d98be1d363778
+
+Package: com.xox.boxy3
+Name: Boxy 3 (iOS 11)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader 
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm
+Description:  tuy chinh icon layout tren ios 11.
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+Section: Tweaks
+Version: 3.3.3-1+debug
+Installed-Size: 3616
+Homepage: https://repoxox.github.io
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.boxy3_3.3.3-1+debug
+Filename: ./debs/com.xox.boxy3_3.3.3-1+debug.deb
+Size: 2799062
+MD5sum: f64c06a07f591ccc62c7f048334988f0
+
+Package: com.xox.bundleIDsXI
+Name: BundleIDsXI
+Depends: AppList
+Conflicts: com.td.bundleidsxi
+Architecture: iphoneos-arm
+Description: App to see installed app bundle IDs.
+Maintainer: thuan_vn
+Author: TD
+Section: Utilities
+Version: 1.1.0-2
+Installed-Size: 240
+Homepage: https://repoxox.github.io
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.bundleIDsXI_1.1.0-2
+Filename: ./debs/com.xox.bundleIDsXI_1.1.0-2.deb
+Size: 106664
+MD5sum: f2dbe26320082a4f9703342ee0590f81
+
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: Cylinder
+Package: com.xox.cylinder
+Section: Tweaks
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: Make your icons dance
+Homepage: https://repoxox.github.io
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: rweichler
+Installed-Size: 899
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.cylinder_1.0.6
+Filename: ./debs/com.xox.cylinder_1.0.6.deb
+Size: 332566
+MD5sum: adcfb2cb06d6c2dbaebb1e619ba9c07a
+
+Author: PoomSmart <poomst@hotmail.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: DismissProgress
+Package: com.xox.dismissprogress
+Depends: mobilesubstrate, firmware (>= 3.0), cydia (>= 1.1.19)
+Section: Tweaks
+Installed-Size: 150
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Dismiss Cydia'a installation window without closing cydia.
+dev: poomst
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.dismissprogress_1.0.3
+Homepage: https://repoxox.github.io
+Filename: ./debs/com.xox.dismissprogress_1.0.3.deb
+Size: 9170
+MD5sum: 79d6bda68e35680dda222487e33ce211
+
+Package: com.xox.homegesture
+Name: HomeGesture
+Pre-Depends: com.spark.libsparkapplist
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Enable iPhone X home gesture on other devices.
+Maintainer: thuan_vn
+Author: VitaTaf/MidnightChips/PINPAL
+Section: Tweaks
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+Version: 2.0.0
+Installed-Size: 2624
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.homegesture_2.0.0
+Homepage: https://repoxox.github.io
+Filename: ./debs/com.xox.homegesture_2.0.0.deb
+Size: 2252200
+MD5sum: b8debaae692352024c0cdae0413e621e
+
+Name: NoLowPowerAlert
+Package: com.xox.nolowpoweralert
+Priority: optional
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000)
+Version: 0.1-1
+Architecture: iphoneos-arm
+Description: Disables low battery alerts
+Homepage: https://repoxox.github.io
+Maintainer: thuan <thuanvodka@gmail.com>
+Author: hiroshit <hiroshieatworld@gmail.com>
+dev: hiroshit
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 64
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.nolowpoweralert_0.1-1
+Filename: ./debs/com.xox.nolowpoweralert_0.1-1.deb
+Size: 3192
+MD5sum: d8b442487d9dcdb4778fcfb38a963764
+
+Package: com.xox.gridiculous
+Name: Gridiculous
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Description: sắp xếp icon tùy ý trên springboard,ios11.
+Maintainer: thuan_vn <zerodayios@gmail.com>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Version: 0.1~beta3
+Homepage: https://repoxox.github.io
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.gridiculous_0.1~beta3
+Filename: ./debs/com.xox.gridiculous_0.1~beta3.deb
+Size: 12704
+MD5sum: c66c59e9339bdece9acf10281acd0d00
+
+Author: kunderscore <kunderscore3@gmail.com>
+Maintainer: thuan
+Name: Avertas
+Package: com.xox.avertas
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
+Section: Tweaks 
+Installed-Size: 196
+Version: 9-3
+Architecture: iphoneos-arm
+Description: tạo cử chỉ đa nhiệm tương tự tweak Auxo (ios11)
+dev: kunderscore
+Tag: purpose::extension, compatible::ios11
+Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas@2x.png
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.avertas_9-3
+Filename: ./debs/com.xox.avertas_9-3.deb
+Size: 53192
+MD5sum: e07c9972efde815ffd72b9506a16a362
+
+Package: com.xox.lockpluspro
+Name: LockPlus Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Description: The ultimate lock screen tweak!
+Maintainer: thuan <thuanvodka@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Tweaks
+tag: cydia::paid
+Version: 1.4.6.2
+Installed-Size: 36624
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.lockpluspro_1.4.6.2
+Filename: ./debs/com.xox.lockpluspro_1.4.6.2.deb
+Size: 16340852
+MD5sum: a94b5e9baaf098e9a411503d5c300f94

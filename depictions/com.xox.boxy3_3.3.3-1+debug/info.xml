@@ -1,0 +1,23 @@
+<package>
+	<id>com.xox.boxy3</id>
+	<name>Boxy3 (ios11)</name>
+	<version>3.3.3-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	
+	<descriptionlist>
+		<description>sắp xếp khoảng cách icon theo hàng cột (ios 11)</description>
+		<description>Welcome To Repo Xox
+		             Chúc Bạn 1 Ngày Tốt Đẹp</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.gif</image>
+		</screenshot>
+	</screenshots>
+	
+</package>

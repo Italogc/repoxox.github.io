@@ -1,0 +1,23 @@
+<package>
+	<id>com.xox.lockpluspro</id>
+	<name>LockPlus Pro</name>
+	<version>1.4.6.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	
+	<descriptionlist>
+		<description>tùy chỉnh widget màn hình khóa (ios9-11)</description>
+		<description>Welcome To Repo Xox
+		             Chúc Bạn 1 Ngày Tốt Đẹp</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.jpg</image>
+		</screenshot>
+	</screenshots>
+	
+</package>

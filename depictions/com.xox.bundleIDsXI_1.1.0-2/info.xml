@@ -1,0 +1,23 @@
+<package>
+	<id>com.xox.bundleIDsXI</id>
+	<name>BundleIDsXI</name>
+	<version>1.1.0-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	
+	<descriptionlist>
+		<description>xem bundleID của app trên ios 11</description>
+		<description>Welcome To Repo Xox
+		             Chúc Bạn 1 Ngày Tốt Đẹp</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.jpg</image>
+		</screenshot>
+	</screenshots>
+	
+</package>
