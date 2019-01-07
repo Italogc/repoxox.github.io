@@ -563,6 +563,7 @@ Author: LaughingQuoll
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist
 Maintainer: thuan <thuanvodka@gmail.com>
+Homepage: https://repoxox.github.io
 Filename: ./debs/com.xox.noctisxi_1.6.3.deb
 Size: 140344
 MD5sum: 0b14479ee53e4a1f5e4e827caebd3edc
