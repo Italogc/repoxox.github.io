@@ -1,7 +1,7 @@
 <package>
-	<id>com.xox.boxy3</id>
-	<name>Boxy3 (ios11)</name>
-	<version>3.3.3-1+debug</version>
+	<id>com.xox.vitrum</id>
+	<name>Vitrum</name>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -10,7 +10,7 @@
 	</compatibility>
 	
 	<descriptionlist>
-		<description>sắp xếp khoảng cách icon theo hàng cột (ios 11)</description>
+		<description>làm trong suốt nền controlcenter (ios11)</description>
 		<description>Welcome To Repo Xox Chúc Bạn 1 Ngày Tốt Đẹp</description>
 	</descriptionlist>
 	<screenshots>
