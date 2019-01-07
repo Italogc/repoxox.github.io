@@ -1,0 +1,22 @@
+<package>
+	<id>com.xox.stackxi</id>
+	<name>StackXI</name>
+	<version>0.4.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	
+	<descriptionlist>
+		<description>Đem nhóm thông báo trên ios 12 xuống ios11,xung đột với intelix,Palette,lockplus pro</description>
+		<description>Welcome To Repo Xox Chúc Bạn 1 Ngày Tốt Đẹp</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.jpg</image>
+		</screenshot>
+	</screenshots>
+	
+</package>

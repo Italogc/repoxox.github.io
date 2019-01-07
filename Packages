@@ -255,3 +255,132 @@ Depiction: https://repoxox.github.io/depictions/?p=com.xox.nudekeys_4.3
 Filename: ./debs/com.xox.nudekeys_4.3.deb
 Size: 1596150
 MD5sum: 01f150e6a429a74406978677085cc643
+
+Package: com.xox.parallaxbegone
+Name: ParallaxBeGone
+Version: 1.1
+Architecture: iphoneos-arm
+Description: loai bỏ hiệu ứng thị sai của hình ảnh!
+Author: Adam Seiter
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: thuan <thuanvodka@gmail.com>
+Filename: ./debs/com.xox.parallaxbegone_1.1.deb
+Size: 14126
+MD5sum: 0e646e773023ff3efa8e64f25adca593
+
+Package: com.xox.fakeclockup
+Name: FakeClockUp
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Description: FakeClockUp accelerates UIKit transition animation.
+Maintainer: thuan <thuanvodka@gmail.com>
+Author: novi <novi.mad@gmail.com>
+Dev: novi
+Section: Tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/FakeClockUp@2x.png
+Tag: purpose::extension 
+Version: 0.6-1
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.fakeclockup_0.6-1
+Filename: ./debs/com.xox.fakeclockup_0.6-1.deb
+Size: 30682
+MD5sum: d8207dfacc9fbd94b6c394efff3debb4
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: CCSupport
+Package: com.xox.ccsupport
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Section: Tweaks
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Support tweak for CC modules!
+Homepage: https://repoxox.github.io
+dev: opa334
+Tag: purpose::extension, compatible::ios11
+Filename: ./debs/com.xox.ccsupport_1.1.2.deb
+Size: 33416
+MD5sum: 20cfc19b74a0e216a81b82cd5dc63fc1
+
+Package: com.xox.ezcc
+Name: EzCC
+Version: 1.2.4
+Architecture: iphoneos-arm
+Description: EzCC Module iOS 11!thêm toggle Control Center
+Homepage: https://repoxox.github.io
+Author: Auxilium Team
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, com.xox.ccsupport
+Conflicts: com.m4cs.ezccbeta
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.ezcc_1.2.4
+Filename: ./debs/com.xox.ezcc_1.2.4.deb
+Size: 410966
+MD5sum: 2aed086b3be0c2eabcb2234afe42d161
+
+Package: com.xox.swipeselection-pro
+Depends: firmware(>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.iky1e.swipeselection
+Name: SwipeSelection Pro
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Description: Vuốt trên bàn phím để di chuyển con trỏ và chọn văn bản.
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Section: Tweaks
+dev: freerunnering
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
+Filename: ./debs/com.xox.swipeselection-pro_1.0.3-1.deb
+Size: 44934
+MD5sum: c7ca14d2a301eefd4dcf44f8886da594
+
+Package: com.xox.bettersettings
+Name: BetterSettings
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: tùy chỉnh giao diện trong setting,(ios11)
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: midnightchips
+Section: Tweaks
+Version: 0.1.0
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.bettersettings_0.1.0
+Filename: ./debs/com.xox.bettersettings_0.1.0.deb
+Size: 1237894
+MD5sum: 3a605a785b4bdfe0e0e0be69ddc8b3e3
+
+Name: Cephei
+Package: com.xox.cephei
+Priority: optional
+Depends: preferenceloader, mobilesubstrate, jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Version: 1.12
+Architecture: iphoneos-arm
+Description: Support library for tweak settings
+Homepage: https://repoxox.github.io
+Maintainer: thuan <thuanvodka@gmail>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Tag: purpose::extension, cydia::obsolete, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Installed-Size: 830
+dev: hbang
+Filename: ./debs/com.xox.cephei_1.12.deb
+Size: 524468
+MD5sum: 54097f9dc945bbf018b5b4d347b8918e
+
+Package: com.xox.stackxi
+Name: StackXI
+Version: 0.4.8
+Architecture: iphoneos-arm
+Description: nhóm notifications, iOS 12 style.
+Author: Nepeta 
+Section: Tweaks
+Depends: mobilesubstrate, com.xox.cephei (>= 1.11), firmware (>= 11.0), firmware (<< 11.4.1), cy+cpu.arm64
+Conflicts: com.ioscreatix.intelix, com.repo.xarold.com.intelix, com.ioscreatix.intelixbeta
+Maintainer: thuan <thuanvodka@gmail.com>
+Depiction: https://repoxox.github.io/depictions/?p=com.xox.stackxi_0.4.8
+Filename: ./debs/com.xox.stackxi_0.4.8.deb
+Size: 57370
+MD5sum: a44100b9070bcab3ba9b88cdf18cf7cc
