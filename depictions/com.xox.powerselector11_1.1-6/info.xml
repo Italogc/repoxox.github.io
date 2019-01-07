@@ -1,0 +1,22 @@
+<package>
+	<id>com.xox.powerselector11</id>
+	<name>PowerSelector (iOS 11)</name>
+	<version>1.1-6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	
+	<descriptionlist>
+		<description>Cài đặt thêm các nút trên trung tâm điều khiển (ios11).</description>
+		<description>Welcome To Repo Xox Chúc Bạn 1 Ngày Tốt Đẹp</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.jpg</image>
+		</screenshot>
+	</screenshots>
+	
+</package>

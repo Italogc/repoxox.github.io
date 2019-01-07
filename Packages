@@ -384,3 +384,26 @@ Depiction: https://repoxox.github.io/depictions/?p=com.xox.stackxi_0.4.8
 Filename: ./debs/com.xox.stackxi_0.4.8.deb
 Size: 57370
 MD5sum: a44100b9070bcab3ba9b88cdf18cf7cc
+
+Author: ichitaso <willfeeltips@gmail.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: PowerSelector (iOS 11)
+Package: com.xox.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
+Installed-Size: 1231
+Version: 1.1-6
+Architecture: iphoneos-arm
+Description: Cài đặt thêm các nút trên trung tâm điều khiển (ios11).
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportpowerselectorDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportpowerselectorDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Filename: ./debs/com.xox.powerselector11_1.1-6.deb
+Size: 267446
+MD5sum: f8f9132a2a1f3b335317ba43a3f53ff0
