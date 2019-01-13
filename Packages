@@ -78,7 +78,7 @@ Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
 Maintainer: thuan <thuanvodka@gmail.com>
 Homepage: https://repoxox.github.io
-Depiction: https://repoxox.github.io/depictions/com.repoxox.appadmin_1.0r-101/appadmin.html
+Depiction: https://repoxox.github.io/depictions/com.xox.appadmin_1.0r-101/appadmin.html
 Filename: ./debs/com.xox.appadmin_1.0r-101.deb
 Size: 861360
 MD5sum: 4c4dea8d9705f6bb859d98be1d363778
@@ -467,7 +467,7 @@ Description: iPhoneX Features for Non-X Devices on iOS 11
 Maintainer: thuan <thuanvodka@gmail.com>
 Author: iOS Creatix
 Section: Tweaks
-Depiction: https://repoxox.github.io/com.xox.littlex_1.3.7/littlex.html
+Depiction: https://repoxox.github.io/depictions/com.xox.littlex_1.3.7/littlex.html
 Version: 1.3.7
 Filename: ./debs/com.xox.littlex_1.3.7.deb
 Size: 38136
@@ -556,7 +556,7 @@ Homepage: https://repoxox.github.io
 Filename: ./debs/com.xox.noctisxi_1.6.3.deb
 Size: 140344
 MD5sum: 0b14479ee53e4a1f5e4e827caebd3edc
-Depiction: https://repoxox.github.io/com.xox.noctisxi_1.6.3/noctisxi.html
+Depiction: https://repoxox.github.io/depictions/com.xox.noctisxi_1.6.3/noctisxi.html
 
 Author: 4nni3 <4nni3.14@gmail.com>
 Maintainer: thuan <thuanvodka@gmail.com>
@@ -621,3 +621,200 @@ Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Filename: ./debs/com.matchstic.xenhtml_0.4rc7-1.deb
 Size: 1119202
 MD5sum: da70b8edc0c488cbad61e5fbed0cabe3
+
+Package: com.xox.appsyncunified
+Name: AppSync Unified
+Version: 31.1
+Architecture: iphoneos-arm
+Description: install,fakesign iOS applications ios 5-11.
+Author: Linus Yang, Karen/あけみ 
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Maintainer: thuan <thuanvodka@gmail.com>
+Filename: ./debs/com.xox.appsyncunified_31.1.deb
+Size: 30330
+MD5sum: af51bef149459f94a85c3762f382a1cc
+
+Author: Aaron Ash (Charybdis) <support@multifl0w.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: Barrel
+Package: com.xox.barrel
+Conflicts: net.limneos.sbrotator (<= 2.1.5)
+Section: Tweaks
+Depends: firmware(>= 3.1), mobilesubstrate, gsc.armv7, preferenceloader
+Version: 1.8.1.1-1
+Architecture: iphoneos-arm
+Description: tạo hiệu ứng icon chuyển trang HomeScreen!
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: aaronash
+Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
+Depiction: https://repoxox.github.io/depictions/com.xox.barrel_1.8.1.1-1/barrel.html
+Filename: ./debs/com.xox.barrel_1.8.1.1-1.deb
+Size: 1841600
+MD5sum: 0a1f87806c0c3fee759e87e2dafe9380
+
+Package: com.xox.ext3nder-installer
+Name: Ext3nder Installer
+Version: 021a
+Architecture: iphoneos-arm
+Description: Resign and rebuild app ios.
+Author: julioverne
+Section: Utilities
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder, com.repo.xarold.com.ext3nder
+Maintainer: thuan <thuanvodka@gmail.com>
+Depiction: https://repoxox.github.io/depictions/com.xox.ext3nder-installer_021a/ext3nder.html
+Filename: ./debs/com.xox.ext3nder-installer_021a.deb
+Size: 457732
+MD5sum: 79d4068bdd187b0931e53e8ef224f261
+
+Package: com.xox.mterminal
+Priority: standard
+Section: Utilities
+Maintainer: thuan <thuanvodka@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.4-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Description: A MobileTerminal fork ios 7-11
+Name: MTerminal
+Author: lordscotland <admin@officialscheduler.com>
+Depiction: https://repoxox.github.io/depictions/com.xox.mterminal_1.4-6/mterminal.html
+Filename: ./debs/com.xox.mterminal_1.4-6.deb
+Size: 108112
+MD5sum: ad53bd066a7fe7c528982f093ea25b19
+
+Package: com.xox.tage
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Name: Tage
+Version: 1.2.2-1
+Architecture: iphoneos-arm
+Description: Awesome multitasking
+Maintainer: thuan <thuanvodka@gmail.com>
+Author: Ma Jun <majun3@gmail.com>
+Section: Tweaks
+dev: clezz
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+Depiction: https://repoxox.github.io/depictions/com.xox.tage_1.2.2-1/tage.html
+Filename: ./debs/com.xox.tage_1.2.2-1.deb
+Size: 322052
+MD5sum: 5edb0341741929f2ac9e45e478f11ceb
+
+Package: com.xox.alkaline
+Name: Alkaline
+Version: 1.3
+Architecture: iphoneos-arm
+Author: magn2o <magn2o@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Description: Themeable status bar battery replacement for iOS 7-11.
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Depiction: https://repoxox.github.io/depictions/com.xox.alkaline_1.3/alkaline.html
+Filename: ./debs/com.xox.alkaline_1.3.deb
+Size: 240748
+MD5sum: 0850584c5c80d394d349b8afcda6d951
+
+Package: com.xox.autowall
+Architecture: iphoneos-arm
+Version: 0.0beta1f
+Section: Tweaks
+Maintainer: thuan <thuanvodka@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Description: thay đổi Wallpapers HS & LS theo thời gian định sẵn.
+Name: AutoWall
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/AutoWallSettings.bundle/icon@2x.png
+Depiction: https://repoxox.github.io/depictions/com.xox.autowall_0.0beta1f/autowall.html
+Filename: ./debs/com.xox.autowall_0.0beta1f.deb
+Size: 38750
+MD5sum: c9c077469ad6616bca0bea7fccb30343
+
+Conflicts: com.midkin.smartvolumecontrol
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader 
+Author: midkin <midkin@hotmail.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: ByeByeHUD
+Package: com.xox.byebyehud
+Section: Tweaks
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: thay doi thanh volume ios 8-11
+Homepage: https://thuanvodka.github.io
+Icon: file:///Library/PreferenceBundles/ByeByeHUD.bundle/BBH@2x.png
+Depiction: https://repoxox.github.io/depictions/com.xox.byebyehud_1.1.3/byebyehud.html
+Filename: ./debs/com.xox.byebyehud_1.1.3.deb
+Size: 60182
+MD5sum: 5e24936f64d7ee6e7f67c6308706d411
+
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: pro.evanwalters.noblurfoldericonsxi, stealthfolders
+Author: daniel63194/Infinite <eremeev.daniel69@icloud.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: ClearFolders
+Package: com.xox.clearfolders
+Section: Tweaks
+Version: 1.3-1
+Architecture: iphoneos-arm
+Description: lam trong suot nen folder ios 10-11
+dev: daniel63194
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ClearFolders.bundle/logo@2x.png
+Depiction: https://repoxox.github.io/depictions/com.xox.clearfolders_1.3-1/clearfolders.html
+Filename: ./debs/com.xox.clearfolders_1.3-1.deb
+Size: 18192
+MD5sum: 58e0ecfefe7f6009b92d8c18429a17a6
+
+Conflicts: gsc.ipad
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<= 11.4)
+Package: com.xox.facedown
+Name: FaceDown
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Face down to sleep. ios 9-11
+Maintainer: thuan <thuanvodka@gmail.com> 
+Author: Ron Thakrar <rthakrardev@gmail.com>
+Section: Tweaks
+dev: rthakrardev
+Tag: purpose::extension, compatbile::ios9, compatbile::ios10, compatbile::ios11
+Depiction: https://repoxox.github.io/depictions/com.xox.facedown_1.3/facedown.html
+Filename: ./debs/com.xox.facedown_1.3.deb
+Size: 13204
+MD5sum: a8a806c35523f495aa518a894a19e4f3
+
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, org.thebigboss.libcolorpicker, com.yourepo.dev4i.devlibimagepicker 
+Sponsor: thebigboss.org <http://thebigboss.org>
+Priority: optional
+Name: YouRespring
+Package: com.xox.yourespring
+Version: 1.7.3
+Architecture: iphoneos-arm
+Description: tạo theme repspring từ hình GIFs.ios 10-11
+Maintainer: thuan <thuanvodka@gmail.com> 
+Author: Dev4i <chrisink22@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+dev: dev4i
+Icon: file:///Library/PreferenceBundles/YouRespring.bundle/icon@2x.png
+Depiction: https://repoxox.github.io/depictions/com.xox.yourespring_1.7.3/yourespring.html
+Filename: ./debs/com.xox.yourespring_1.7.3.deb
+Size: 312844
+MD5sum: 64984ba485fce6e841df54db096b08b1
+
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader 
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Priority: extra
+Package: com.xox.zeppelin
+Name: Zeppelin
+Version: 2.1.0-12
+Architecture: iphoneos-arm
+Author: Alex Zielenski <support@alexzielenski.com>
+Section: Tweaks
+Description: thay đổi tên nhà mạng!
+Maintainer: thuan <thuanvodka@gmail.com>
+Depiction: https://repoxox.github.io/depictions/com.xox.zeppelin_2.1.0-12/zeppelin.html
+Filename: ./debs/com.xox.zeppelin_2.1.0-12.deb
+Size: 763066
+MD5sum: 9575e51c5b8a693ee4538a49d5c2e1ea
