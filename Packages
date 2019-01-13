@@ -567,4 +567,21 @@ Homepage: https://repoxox.github.io
 Filename: ./debs/com.xox.noctisxi_1.6.3.deb
 Size: 140344
 MD5sum: 0b14479ee53e4a1f5e4e827caebd3edc
-Depiction: https://www.dropbox.com/s/ci5vzm4wm1y2gow/noctisXI.jpg?dl=0
+Depiction: https://repo.packix.com/package/com.laughingquoll.noctisxi/
+
+Author: 4nni3 <4nni3.14@gmail.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: CoolCC
+Package: com.xox.coolcc
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Section: Tweaks
+Version: 1:2.0
+Architecture: iphoneos-arm
+Description: lam trong suot ControlCenter!
+dev: 4nni3
+Tag: purpose::extension, compatible::ios11
+Icon: file:///Library/PreferenceBundles/CoolCCPref.bundle/icon@2x.png
+Filename: ./debs/com.xox.coolcc_2.0.deb
+Size: 215326
+MD5sum: 0edc938aadd53b0c41fa507bee988c2e
+Depiction: https://rexox.github.io/depictions/com.xox.coolcc_2.0/coolcc.html
