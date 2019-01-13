@@ -8,7 +8,7 @@ Author: Voltized <voltizedyt@gmail.com>
 Maintainer: thuan_xox <thuanvodka@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Description: Enable Portrait Lighting on iPhone 7+ (11.0 - 11.4b3)
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.lightson_1.0.0
+Depiction: https://repoxox.github.io/depictions/com.xox.lightson_1.0.0/lightson.html
 Tag: purpose::extension, compatible::ios11
 Filename: ./debs/com.xox.lightson_1.0.0.deb
 Size: 4100
@@ -27,7 +27,7 @@ Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
-Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.icleanerpro_7.7.0
+Depiction: https://repoxox.github.io/depictions/com.repoxox.icleanerpro_7.7.0/icleanerpro.html
 Filename: ./debs/com.repoxox.icleanerpro_7.7.0.deb
 Size: 7386234
 MD5sum: 4f8e39c18623df4166cbacdb833feef9
@@ -45,7 +45,7 @@ Author: TIGI Software <satashi2009@gmail.com>
 Section: Utilities
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
-Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.filza_3.5.2-1
+Depiction: https://repoxox.github.io/depictions/com.repoxox.filza_3.5.2-1/filza.html
 Filename: ./debs/com.repoxox.filza_3.5.2-1.deb
 Size: 13543926
 MD5sum: 54d70f7c164b6a9692da69883e7bd45c
@@ -62,7 +62,7 @@ Section: Utilities
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Version: 3.6.0-33
 Homepage: https://repoxox.github.io
-Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.filza_3.5.2-1
+Depiction: https://repoxox.github.io/depictions/com.repoxox.filza_3.5.2-1/filza.html
 Filename: ./debs/com.repoxox.filza_3.6.0-33.deb
 Size: 12452072
 MD5sum: 025d5dc34e777261fb7211daa2b7c667
@@ -78,7 +78,7 @@ Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
 Maintainer: thuan <thuanvodka@gmail.com>
 Homepage: https://repoxox.github.io
-Depiction: https://repoxox.github.io/depictions/?p=com.repoxox.appadmin_1.0r-101
+Depiction: https://repoxox.github.io/depictions/com.repoxox.appadmin_1.0r-101/appadmin.html
 Filename: ./debs/com.xox.appadmin_1.0r-101.deb
 Size: 861360
 MD5sum: 4c4dea8d9705f6bb859d98be1d363778
@@ -95,7 +95,7 @@ Section: Tweaks
 Version: 3.3.3-1+debug
 Installed-Size: 3616
 Homepage: https://repoxox.github.io
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.boxy3_3.3.3-1+debug
+Depiction: https://repoxox.github.io/depictions/com.xox.boxy3_3.3.3-1+debug/boxy3.html
 Filename: ./debs/com.xox.boxy3_3.3.3-1+debug.deb
 Size: 2799062
 MD5sum: f64c06a07f591ccc62c7f048334988f0
@@ -112,7 +112,7 @@ Section: Utilities
 Version: 1.1.0-2
 Installed-Size: 240
 Homepage: https://repoxox.github.io
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.bundleIDsXI_1.1.0-2
+Depiction: https://repoxox.github.io/depictions/com.xox.bundleIDsXI_1.1.0-2/bundleidsxi.html
 Filename: ./debs/com.xox.bundleIDsXI_1.1.0-2.deb
 Size: 106664
 MD5sum: f2dbe26320082a4f9703342ee0590f81
@@ -131,7 +131,7 @@ Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 dev: rweichler
 Installed-Size: 899
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.cylinder_1.0.6
+Depiction: https://repoxox.github.io/depictions/com.xox.cylinder_1.0.6/cylinder.html
 Filename: ./debs/com.xox.cylinder_1.0.6.deb
 Size: 332566
 MD5sum: adcfb2cb06d6c2dbaebb1e619ba9c07a
@@ -148,7 +148,7 @@ Architecture: iphoneos-arm
 Description: Dismiss Cydia'a installation window without closing cydia.
 dev: poomst
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.dismissprogress_1.0.3
+Depiction: https://repoxox.github.io/depictions/com.xox.dismissprogress_1.0.3/dismissprogress.html
 Homepage: https://repoxox.github.io
 Filename: ./debs/com.xox.dismissprogress_1.0.3.deb
 Size: 9170
@@ -166,7 +166,7 @@ Section: Tweaks
 Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
 Version: 2.0.0
 Installed-Size: 2624
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.homegesture_2.0.0
+Depiction: https://repoxox.github.io/depictions/com.xox.homegesture_2.0.0/homegesture.html
 Homepage: https://repoxox.github.io
 Filename: ./debs/com.xox.homegesture_2.0.0.deb
 Size: 2252200
@@ -186,7 +186,7 @@ dev: hiroshit
 Section: Tweaks
 Tag: purpose::extension
 Installed-Size: 64
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.nolowpoweralert_0.1-1
+Depiction: https://repoxox.github.io/depictions/com.xox.nolowpoweralert_0.1-1/nolowpoweralert.html
 Filename: ./debs/com.xox.nolowpoweralert_0.1-1.deb
 Size: 3192
 MD5sum: d8b442487d9dcdb4778fcfb38a963764
@@ -201,7 +201,7 @@ Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
 Section: Tweaks
 Version: 0.1~beta3
 Homepage: https://repoxox.github.io
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.gridiculous_0.1~beta3
+Depiction: https://repoxox.github.io/depictions/com.xox.gridiculous_0.1~beta3/gridiculous.html
 Filename: ./debs/com.xox.gridiculous_0.1~beta3.deb
 Size: 12704
 MD5sum: c66c59e9339bdece9acf10281acd0d00
@@ -219,26 +219,27 @@ Description: tạo cử chỉ đa nhiệm tương tự tweak Auxo (ios11)
 dev: kunderscore
 Tag: purpose::extension, compatible::ios11
 Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas@2x.png
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.avertas_9-3
+Depiction: https://repoxox.github.io/depictions/com.xox.avertas_9-3/avertas.html
 Filename: ./debs/com.xox.avertas_9-3.deb
 Size: 53192
 MD5sum: e07c9972efde815ffd72b9506a16a362
 
-Package: com.xox.lockpluspro
+Package: com.junesiphone.lockpluspro
 Name: LockPlus Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader
+Conflicts:
 Description: The ultimate lock screen tweak!
-Maintainer: thuan <thuanvodka@gmail.com>
+Maintainer: June <junesgraphics@gmail.com>
 Author: JunesiPhone <junesgraphics@gmail.com>
-Section: Tweaks
+Section: Addons (Tweaks)
 tag: cydia::paid
 Version: 1.4.6.2
 Installed-Size: 36624
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.lockpluspro_1.4.6.2
-Filename: ./debs/com.xox.lockpluspro_1.4.6.2.deb
-Size: 16340852
-MD5sum: a94b5e9baaf098e9a411503d5c300f94
+Depiction: https://repoxox.github.io/depictions/com.junesiphone.lockpluspro_1.4.6.2/lockpluspro.html
+Filename: ./debs/com.junesiphone.lockpluspro_1.4.6.2.deb
+Size: 11723316
+MD5sum: 32e24592c62c070918e815f6315889c2
 
 Author: Orangebananaspy <support@orangebananaspy.com>
 Maintainer: thuan
@@ -251,7 +252,7 @@ Architecture: iphoneos-arm
 Description: thay mau ban phim ios 7-11
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Icon: file:///Library/PreferenceBundles/NudeKeys.bundle/NudeKeys@2x.png
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.nudekeys_4.3
+Depiction: https://repoxox.github.io/depictions/com.xox.nudekeys_4.3/nudekeys.html
 Filename: ./debs/com.xox.nudekeys_4.3.deb
 Size: 1596150
 MD5sum: 01f150e6a429a74406978677085cc643
@@ -281,7 +282,7 @@ Section: Tweaks
 Icon: file:///Library/PreferenceLoader/Preferences/FakeClockUp@2x.png
 Tag: purpose::extension 
 Version: 0.6-1
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.fakeclockup_0.6-1
+Depiction: https://repoxox.github.io/depictions/com.xox.fakeclockup_0.6-1/fakeclockup.html
 Filename: ./debs/com.xox.fakeclockup_0.6-1.deb
 Size: 30682
 MD5sum: d8207dfacc9fbd94b6c394efff3debb4
@@ -316,7 +317,7 @@ Section: Tweaks
 Depends: firmware (>= 11.0), mobilesubstrate, com.xox.ccsupport
 Conflicts: com.m4cs.ezccbeta
 Maintainer: thuan_vn <thuanvodka@gmail.com>
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.ezcc_1.2.4
+Depiction: https://repoxox.github.io/depictions/com.xox.ezcc_1.2.4/excc.html
 Filename: ./debs/com.xox.ezcc_1.2.4.deb
 Size: 410966
 MD5sum: 2aed086b3be0c2eabcb2234afe42d161
@@ -331,6 +332,7 @@ Description: Vuốt trên bàn phím để di chuyển con trỏ và chọn văn
 Maintainer: thuan_vn <thuanvodka@gmail.com>
 Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
 Section: Tweaks
+Depiction: https://repoxox.github.io/depictions/com.xox.swipeselection-pro_1.0.3-1/swipeselection-pro.html
 dev: freerunnering
 Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
@@ -347,7 +349,7 @@ Maintainer: thuan_vn <thuanvodka@gmail.com>
 Author: midnightchips
 Section: Tweaks
 Version: 0.1.0
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.bettersettings_0.1.0
+Depiction: https://repoxox.github.io/depictions/com.xox.bettersettings_0.1.0/bettersettings.html
 Filename: ./debs/com.xox.bettersettings_0.1.0.deb
 Size: 1237894
 MD5sum: 3a605a785b4bdfe0e0e0be69ddc8b3e3
@@ -380,7 +382,7 @@ Section: Tweaks
 Depends: mobilesubstrate, com.xox.cephei (>= 1.11), firmware (>= 11.0), firmware (<< 11.4.1), cy+cpu.arm64
 Conflicts: com.ioscreatix.intelix, com.repo.xarold.com.intelix, com.ioscreatix.intelixbeta
 Maintainer: thuan <thuanvodka@gmail.com>
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.stackxi_0.4.8
+Depiction: https://repoxox.github.io/depictions/com.xox.stackxi_0.4.8/stackxi.html
 Filename: ./debs/com.xox.stackxi_0.4.8.deb
 Size: 57370
 MD5sum: a44100b9070bcab3ba9b88cdf18cf7cc
@@ -425,20 +427,6 @@ Filename: ./debs/com.xox.unlocksound7_1.2.7.deb
 Size: 87554
 MD5sum: ea3b069ec8bc7ad47f05e15e51b3e653
 
-Package: com.xox.vitrum
-Name: Vitrum
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Architecture: iphoneos-arm
-Description: lam trong suốt controlcenter.ios11.
-Maintainer: thuan <thuanvodka@gmail.com>
-Author: LacertosusDeus <LacertosusThemes@gmail.com>
-Section: Tweaks
-Depiction: https://repoxox.github.io/depictions/?p=com.xox.vitrum_1.3
-Version: 1.3
-Filename: ./debs/com.xox.vitrum_1.3.deb
-Size: 40398
-MD5sum: 32f69d3abb2022559eac29a990d9e4d9
-
 Package: com.xox.xeninfo
 Name: XenInfo
 Depends: mobilesubstrate, firmware (>= 9.0)
@@ -479,6 +467,7 @@ Description: iPhoneX Features for Non-X Devices on iOS 11
 Maintainer: thuan <thuanvodka@gmail.com>
 Author: iOS Creatix
 Section: Tweaks
+Depiction: https://repoxox.github.io/com.xox.littlex_1.3.7/littlex.html
 Version: 1.3.7
 Filename: ./debs/com.xox.littlex_1.3.7.deb
 Size: 38136
@@ -567,7 +556,7 @@ Homepage: https://repoxox.github.io
 Filename: ./debs/com.xox.noctisxi_1.6.3.deb
 Size: 140344
 MD5sum: 0b14479ee53e4a1f5e4e827caebd3edc
-Depiction: https://repo.packix.com/package/com.laughingquoll.noctisxi/
+Depiction: https://repoxox.github.io/com.xox.noctisxi_1.6.3/noctisxi.html
 
 Author: 4nni3 <4nni3.14@gmail.com>
 Maintainer: thuan <thuanvodka@gmail.com>
@@ -585,3 +574,50 @@ Filename: ./debs/com.xox.coolcc_2.0.deb
 Size: 215326
 MD5sum: 0edc938aadd53b0c41fa507bee988c2e
 Depiction: https://repoxox.github.io/depictions/com.xox.coolcc_2.0/coolcc.html
+
+Package: com.xox.showtouch
+Name: ShowTouch
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Description: Shows where you touch the screen ios 10-11.
+Author: LonestarX 
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Maintainer: thuan <thuanvodka@gmail.com>
+Filename: ./debs/com.xox.showtouch_1.0.3-1.deb
+Size: 95522
+MD5sum: c61d2c88dfe1ea231a59d81ebca1241b
+Depiction: https://repoxox.github.io/depictions/com.xox.showtouch_1.0.3-1/showtouch.html
+
+Package: com.xox.libgithubissues
+Name: libGitHubIssues
+Version: 0.0.1
+Description: Integrate GitHub Issues as a bugtracker
+Section: System
+Depends: firmware (>= 8.0)
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Filename: ./debs/com.xox.libgithubissues_0.0.1.deb
+Size: 1006636
+MD5sum: fb8bc181f7c1e94e67812c67482c5d0a
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 0.4rc7-1
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: System
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.xox.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Filename: ./debs/com.matchstic.xenhtml_0.4rc7-1.deb
+Size: 1119202
+MD5sum: da70b8edc0c488cbad61e5fbed0cabe3
