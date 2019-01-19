@@ -848,3 +848,65 @@ Filename: ./debsthemes/com.xox.acaiforiphone_1.0.deb
 Size: 614192
 MD5sum: 9da0d96a85fc8523a1d529b37416f511
 Depiction: https://repoxox.github.io/depictions/com.xox.acaiforiphone_1.0/acai.html
+
+Package: com.xox.gravity
+Name: Gravity
+Version: 0.5
+Architecture: iphoneos-arm
+Description: Graviboard alternative ios 11
+Author: julioverne
+Section: Tweaks
+Maintainer: thuan <thuanvodka@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Filename: ./debstweaks/com.xox.gravity_0.5.deb
+Size: 148082
+MD5sum: f5c8863adfd3058d87c30861d22fc72b
+Depiction: https://repoxox.github.io/depictions/com.xox.gravity_0.5/gravity.html
+
+Package: com.xox.protube
+Depends: firmware(>= 6.0), preferenceloader
+Name: ProTube
+Version: 1.12.5
+Architecture: iphoneos-arm
+Description: download videos youtube
+Maintainer: thuan <thuanvodka@gmail.com>
+Author: Jonas Gessner <support@j-gessner.de>
+Section: Multimedia
+dev: maxner
+Tag: cydia::commercial, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/ProTube.app/icon.png
+Filename: ./debstweaks/com.xox.protube_1.12.5.deb
+Size: 5305488
+MD5sum: 79b3ca1671d472d60ab39770ae01c2e5
+Depiction: https://repoxox.github.io/depictions/com.xox.protube_1.12.5/protube.html
+
+Name: YouTubed
+Package: com.xox.youtubed
+Priority: optional
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Version: 1.7.2-1
+Architecture: iphoneos-arm
+Description: Enable YouTube app backgrounding and download
+Maintainer: thuan <thuanvodka@gmail.com>
+Author: iLendSoft <ilendemli@live.at>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Filename: ./debstweaks/com.xox.youtubed_1.7.2-1.deb
+Size: 26748
+MD5sum: d93615c0ef7fb61eceec5c42326bb257
+Depiction: https://repoxox.github.io/depictions/com.xox.youtubed_1.7.2-1/youtubed.html
+
+Package: com.xox.youtubetools
+Name: YouTube Tools
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Essential toolbox for YouTube app.
+Maintainer: thuan_vn
+Author: Justin Petkovic
+Section: Tweaks
+Version: 2.0
+Filename: ./debstweaks/com.xox.youtubetools_2.0.deb
+Size: 24000
+MD5sum: 55da5e630e76f430f659eeaa557538df
+Depiction: https://repoxox.github.io/depictions/com.xox.youtubetools_2.0/youtubetools.html
