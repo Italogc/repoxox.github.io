@@ -818,3 +818,33 @@ Depiction: https://repoxox.github.io/depictions/com.xox.zeppelin_2.1.0-12/zeppel
 Filename: ./debstweaks/com.xox.zeppelin_2.1.0-12.deb
 Size: 763066
 MD5sum: 9575e51c5b8a693ee4538a49d5c2e1ea
+
+Author: merdok <merdok87@o2.pl>
+Maintainer: thuan <thuanvodka@gmail.com>
+Name: Anilaunch
+Package: com.xox.anilaunch
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.1.7
+Architecture: iphoneos-arm
+Description: tạo hiệu ứng icon khi mở app ios 8-11.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anilaunchDp
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: merdok
+Icon: file:///Library/PreferenceBundles/anilaunchprefs.bundle/anilaunch@2x.png
+Filename: ./debstweaks/com.xox.anilaunch_1.1.7.deb
+Size: 188674
+MD5sum: 8582c275175ccaf7ba746075f04b4c13
+
+Package: com.xox.acaiforiphone
+Name: Acai for iPhone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The colourful, fun theme for iOS!
+Author: idkjoel
+Section: Themes
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Filename: ./debsthemes/com.xox.acaiforiphone_1.0.deb
+Size: 614192
+MD5sum: 9da0d96a85fc8523a1d529b37416f511
+Depiction: https://repoxox.github.io/depictions/com.xox.acaiforiphone_1.0/acai.html
