@@ -910,3 +910,31 @@ Filename: ./debstweaks/com.xox.youtubetools_2.0.deb
 Size: 24000
 MD5sum: 55da5e630e76f430f659eeaa557538df
 Depiction: https://repoxox.github.io/depictions/com.xox.youtubetools_2.0/youtubetools.html
+
+Package: com.xox.iconrenamer
+Section: Tweaks
+Maintainer: thuan <thuanvodka@gmail.com>
+Architecture: iphoneos-arm
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Description: Rename icons from your SpringBoard
+Name: Icon Renamer
+Author: Ryan Petrich <rpetrich@gmail.com>
+Version: 1.2.5
+Filename: ./debstweaks/com.xox.iconrenamer_1.2.5.deb
+Size: 23392
+MD5sum: 9e7c49b609bf2c283591636d0146258e
+Depiction: https://repoxox.github.io/depictions/com.xox.iconrenamer_1.2.5/iconrenamer.html
+
+Name: Aromy
+Package: com.xox.aromy
+Version: 1.3
+Architecture: iphoneos-arm
+Description: cool theme.
+Maintainer: thuan <thuanvodka@gmail.com>
+Author: thuan_vn <thuanvodka@gmail.com>
+Section: Themes
+Tag: purpose::theme, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Filename: ./debsthemes/com.xox.aromy_1.3.deb
+Size: 2216806
+MD5sum: 4a22782b6432b25c4cdb3ead889c42ac
+Depiction: https://repoxox.github.io/depictions/com.xox.aromy_1.3/aromy.html
