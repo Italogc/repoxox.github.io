@@ -938,3 +938,51 @@ Filename: ./debsthemes/com.xox.aromy_1.3.deb
 Size: 2216806
 MD5sum: 4a22782b6432b25c4cdb3ead889c42ac
 Depiction: https://repoxox.github.io/depictions/com.xox.aromy_1.3/aromy.html
+
+Package: com.xox.slyd
+Name: Slyd (SlideToUnlock)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: Slide to unlock for iOS 11 and 12.
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: Nepeta
+Section: Tweaks
+Version: 0.1.1
+Filename: ./debstweaks/com.xox.slyd_0.1.1.deb
+Size: 18662
+MD5sum: d04ae5e97ef13ea1ba3a9be2012c632f
+Depiction: https://repoxox.github.io/depictions/com.xox.slyd_0.1.1/slyd.html
+
+Author: merdok <merdok87@o2.pl>
+Maintainer: thuan <thuanvodka@gmail>
+Name: Appcon
+Package: com.xox.appcon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
+Version: 1.4.3-1
+Architecture: iphoneos-arm
+Description: Set icon images from your photo library.
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
+Filename: ./debstweaks/com.xox.appcon_1.4.3-1.deb
+Size: 273486
+MD5sum: aee49e9acdb80df67417b4ae5ee3ebb6
+Depiction: https://repoxox.github.io/depictions/com.xox.appcon_1.4.3-1/appcon.html
+
+Name: Filza File Manager
+Package: com.xox.filza
+Priority: optional
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Version: 3.6.0-38
+Architecture: iphoneos-arm
+Description: File Manager for iOS. Supports iOS 7+ -11.4(b3).
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Depiction: https://repoxox.github.io/depictions/com.repoxox.filza_3.5.2-1/filza.html
+Filename: ./debstweaks/com.repoxox.filza_3.6.0-38.deb
+Size: 12393416
+MD5sum: ee8c21c5b93704655feb0317788357b2
