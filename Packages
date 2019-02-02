@@ -1044,3 +1044,20 @@ Depiction: https://repoxox.github.io/depictions/com.xox.plainly_1.0/plainly.html
 Filename: ./debsthemes/com.xox.plainly_1.0.deb
 Size: 2760168 
 MD5sum: 0afc484cefe5c2bb0468845cb45a18bc
+
+Name: DLEasy
+Package: com.xox.dleasy
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Download images & videos from social apps easily!
+Maintainer: thuan_vn <thuanvodka@gmail.com>
+Author: Ahmed Bafkir <prooxy0@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
+Depiction: https://repoxox.github.io/depictions/com.xox.dleasy_1.2/dleasy.html
+Filename: ./debsthemes/com.xox.dleasy_1.2.deb
+Size: 1108872 
+MD5sum: 0afc484cefe5c2bb0468845cb45a18bc
