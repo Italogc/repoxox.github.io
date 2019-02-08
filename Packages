@@ -1140,3 +1140,16 @@ Depiction: https://repoxox.github.io/depictions/com.xox.lswatchdogs_1.0.3/lswatc
 Filename: ./debsthemes/com.xox.lswatchdogs_1.0.3.deb
 Size: 708
 MD5sum: b1eaa8f2edca5600d8ee02ee8929d3c4
+
+Package: com.xox.bubbly
+Name: Bubble
+Version: 1.0
+Architecture: iphoneos-arm
+Description: tạo bong bóng khi vuốt trên homescreen
+Author: Ryu
+Section: Widgets
+Maintainer: thuan <thuanvodka@gmail.com>
+Depiction: https://repoxox.github.io/depictions/com.xox.bubbly_1.0/bubbly.html
+Filename: ./debsthemes/com.xox.bubbly_1.0.deb
+Size: 2354
+MD5sum: b919af3a52073bc51df848baaaeb2c9e
